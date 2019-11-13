@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1573643642 source:e:\data structure\c++ project\tubestba\lexic.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1573664445 source:e:\data structure\c++ project\tubestba\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
